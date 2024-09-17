@@ -1,5 +1,3 @@
-# Flappy_Bird
-
 # Flappy Bird Java Game
 
 Welcome to my Flappy Bird-inspired game built entirely in Java using the Swing library for graphics and user interaction. This project recreates the classic gameplay where the player controls a bird navigating through gaps in moving pipes by pressing the spacebar to keep the bird airborne.
